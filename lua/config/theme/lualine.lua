@@ -3,7 +3,7 @@ local M = {}
 local lualine = require('lualine')
 local colors = require('config.theme.palette').colors
 local theme = require('config.theme.hacker')
-local icons = require('config.icons')
+local icons = require('config.theme.icons')
 
 local _conditions = {
     buffer_not_empty = function()
