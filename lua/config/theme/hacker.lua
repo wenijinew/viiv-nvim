@@ -8,8 +8,8 @@ H.fg_normal = P.colors.pale_blue
 H.bg_normal = P.colors.black_grayish_blue
 H.fg_normal_dark = P.colors.grayish_blue
 H.bg_normal_dark = P.colors.black_grayish_blue
-H.fg_highlight = P.colors.light_yellow
-H.bg_highlight = P.colors.dark_red
+H.fg_highlight = P.colors.grayish_blue
+H.bg_highlight = P.colors.dark_cyan
 H.fg_inactive = P.colors.strong_grayish_blue
 H.bg_inactive = P.colors.dark_gray
 
